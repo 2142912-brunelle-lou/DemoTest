@@ -1,0 +1,44 @@
+Git 8 avril 2022
+
+distant -clone-> local ssh/https
+local -init-> local -> associer distant
+
+un seul init pour un groupe
+
+créer un repo
+partager l'url
+add people dans settings
+cloner le repo dans un dossier distinct
+modifier le readme (#titre et les modifs)
+add
+commit -m 
+push
+
+récupérer distant  
+git pull -> git fetch -> git merge
+
+gk graph (dans git kraken) pour montrer le graph
+git status (dans la console) pour le status
+
+Un rond apparait dans git kraken quand il y a dequoi de modifié mais pas commit
+
+Un changement sur les mêmes lignes ne peut être pulled, crée une erreur
+-> dans gk: view conflits montre où sont les conflits
+(peut utiliser des addons dans gk)
+
+fusionner les distants (fetch merge?) pour synchroniser et rendre cohérent avant de push
+
+faire différentes branches pour différentes fonctionnalités (ou une main et une branche pour chaque personne)
+
+git branch name
+git branch (pour voir les branches)
+git checkout name (switch à name)
+git checkout main (switch à main)
+
+appeller les branches distantes pareilles comme les branches locales
+
+push --set -upstream... (à vérifier)
+
+pour fusionner 2 locaux: un seul sens, pull. git merge name. git push
+
+gitignore.io
