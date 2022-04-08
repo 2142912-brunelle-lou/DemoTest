@@ -42,4 +42,3 @@ push --set -upstream... (à vérifier)
 pour fusionner 2 locaux: un seul sens, pull. git merge name. git push
 
 gitignore.io
-git add bypass gitignore et track les fichier (donc le fichier va être ajouté avec git add .)
