@@ -5,6 +5,12 @@ I have a dream that one day even the state of Mississippi, a state sweltering wi
 
 I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character. I have a dream today.
 
+<<<<<<< HEAD
 I have a dream that one day down in Alabama with its vicious racists, with its governor having his lips dripping with the words of interposition and nullification, one day right down in Alabama little Black boys and Black girls will be able to join hands with little white boys and white girls as sisters and brothers. I have a dream today.
 
 I have a dream that one day every valley shall be exalted, every hill and mountain shall be made low, the rough places will be made plain, and the crooked places will be made straight, and the glory of the Lord shall be revealed, and all flesh shall see it together.
+=======
+https://www.youtube.com/watch?v=FTQbiNvZqaY
+
+https://www.youtube.com/watch?v=-mu780uB7mI
+>>>>>>> 85d55dd6f2f7afb51683357715b9009ba007bb21
